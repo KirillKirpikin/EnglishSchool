@@ -5919,7 +5919,7 @@
     };
     const da = new DynamicAdapt("max");
     da.init();
-    window["FLS"] = true;
+    window["FLS"] = fasle;
     isWebp();
     menuInit();
     formSubmit();
