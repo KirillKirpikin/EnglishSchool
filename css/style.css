@@ -2560,7 +2560,7 @@ body::after {
   }
 
   .menu__link:hover {
-    color: #4923B4;
+    color: #e878cf;
   }
 
   .icons__item a:hover {
@@ -2568,7 +2568,7 @@ body::after {
   }
 
   .footer__link:hover {
-    color: #4923B4;
+    color: #e878cf;
   }
 
   .footer__social:hover {
@@ -2581,8 +2581,8 @@ body::after {
   }
 
   .main-section__btn-purp:hover {
-    color: #6E5CA1;
-    border: 2px solid #6E5CA1;
+    color: #000;
+    background: #FFFFFF; 
   }
 
   .about-section__button:hover {
@@ -2605,7 +2605,7 @@ body::after {
   }
 
   .contacts-section__social:hover {
-    color: #FFFFFF;
+    color: #808080;
   }
 
   .contacts-section__btn:hover {
